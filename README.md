@@ -44,7 +44,7 @@ AI • Automation • Intelligence
 
 ### 📊 System Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jarvis&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=jarvisss18&show_icons=true&theme=tokyonight">
 </p>
 
 ---
