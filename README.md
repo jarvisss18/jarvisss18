@@ -1,3 +1,9 @@
+![Banner](banner (3).png)
+
+# 🤖 JARVIS SYSTEM
+
+AI & Automation System in Development  
+Learning. Building. Evolving.
 ## Hi there 👋
 
 <!--
