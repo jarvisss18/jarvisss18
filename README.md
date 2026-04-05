@@ -1,40 +1,26 @@
-![Banner](banner2.png)
+![Banner](banner3.png)
 
-<h1 align="center">🤖 JARVIS </h1>
+<h1 align="center">🤖 Jarvis</h1>
 
 <p align="center">
-AI • Automation • Intelligence
+AI • Automation • Development
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Initializing+JARVIS...;AI+Assistant+in+Development;Automation+%7C+Intelligence+%7C+Innovation&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+AI+and+Automation;Building+Real+World+Projects;Learning+Every+Day&center=true&width=500&height=45&color=00F7FF&speed=50">
 </p>
 
 ---
 
-### ⚙️ System Overview
-- AI-based assistant system  
-- Focused on automation & real-world solutions  
-- Continuously evolving with new features  
+### 👨‍💻 About Me
+- 🤖 Interested in AI & Automation  
+- 💻 Building real-world projects  
+- 📱 Exploring Android Development  
+- 🚀 Continuously learning and improving  
 
 ---
 
-### 🚀 Active Modules
-- 🎙 Voice Recognition  
-- 🧠 Command Processing  
-- ⚡ Automation Engine  
-- 📱 Mobile Integration (Upcoming)  
-
----
-
-### 📡 Status
-🟢 Learning  
-🟡 Building  
-🔵 Improving  
-
----
-
-### ⚡ Tech Stack
+### ⚙️ Tech Stack
 - Python 🐍  
 - Java ☕  
 - APIs 🌐  
@@ -42,18 +28,23 @@ AI • Automation • Intelligence
 
 ---
 
-### 📊 System Stats
+### 🚀 Projects
+- 🔒 Projects will be added soon...
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jarvisss18&show_icons=true&theme=tokyonight">
 </p>
 
 ---
 
-### 🔥 Philosophy
-> "From commands to intelligence."
+### 🔥 Quote
+> "From curiosity to creation."
 
 ---
 
 <p align="center">
-⚡ SYSTEM ONLINE ⚡
+⚡ Always Learning ⚡
 </p>
