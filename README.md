@@ -1,4 +1,4 @@
-![Banner](banner1.png)
+![Banner](banner2.png)
 
 <h1 align="center">🤖 JARVIS SYSTEM</h1>
 
