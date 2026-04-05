@@ -1,6 +1,6 @@
 ![Banner](banner2.png)
 
-<h1 align="center">🤖 JARVIS SYSTEM</h1>
+<h1 align="center">🤖 JARVIS </h1>
 
 <p align="center">
 AI • Automation • Intelligence
